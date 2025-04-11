@@ -16,7 +16,7 @@ Technologies Used
 - Machine learning library: TensorFlow, PyTorch, or scikit-learn
 
 Installation and Setup
-1. Clone the repository using git clone https://github.com/your-username/chatbot.git
+1. Clone the repository using git clone https://github.com/Kartika-Dhekale/Chatbot.git
 2. Install dependencies using pip install -r requirements.txt
 3. Run the application using python app.py
 
